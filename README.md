@@ -1,21 +1,46 @@
-## Hi there 👋
-# Hi There 👋
+# HI There 👋
 
-I'm [Twoje Imię], student [Twoja Uczelnia] i pasjonat programowania.
+Hello, I'm Łukasz Łośko, student at WSEI Kraków my goal is to become a professional programmer.💻
 
-## O mnie
-- 👨‍💻 Studiuję informatykę na [nazwa uczelni]
-- 🌱 Lubię uczyć się nowych technologii i języków programowania
-- 🎯 Chcę rozwijać się w branży IT
+## 📝 About Me:
+- 🎓 Currently pursuing a degree in Computer Science at WSEI Kraków.
+- 🚀 Eager to learn and explore new technologies and programming languages.
+- 🌟 Aspiring to make a mark in the world of software development.
 
-## Stack technologiczny
-- JavaScript, React, C#, C++, MySQL, Git, GitHub
+## 💻 Tech Stack:
+- 🛠️ Experienced in web development.
+  - Angular(ts,scss,html)
+  - ASP.NET
+  - git
+  - basic knowlage about Docker
 
-## Najczęściej używane języki
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoj_nick)
+---
 
-## Kontakt
-[LinkedIn](#) | [Email](#)
+Feel free to reach out for collaborations, mentorship, or just a friendly chat!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](#)
+
+---
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiziterskii)
+
+---
+
+## Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 <!--
 **Tiziterskii/Tiziterskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
