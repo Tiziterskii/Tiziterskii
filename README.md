@@ -18,7 +18,7 @@ Hello, I'm Łukasz Łośko, student at WSEI Kraków my goal is to become a profe
 
 Feel free to reach out for collaborations, mentorship, or just a friendly chat!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]https://www.linkedin.com/in/łukasz-łośko-bb17732ba/(#)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](#)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](#)
 
