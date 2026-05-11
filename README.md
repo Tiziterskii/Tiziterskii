@@ -1,31 +1,38 @@
-# HI There 👋
+# Hi there 👋
 
-Hello, I'm Łukasz Łośko, student at WSEI Kraków my goal is to become a professional programmer.💻
+I'm Łukasz Łośko, a Junior Fullstack Developer and Computer Science student at WSEI Kraków.
+
+I work mainly with ASP.NET and Angular, focusing primarily on backend development, API design, and building modern web applications.
 
 ## 📝 About Me:
-- 🎓 Currently pursuing a degree in Computer Science at WSEI Kraków.
-- 🚀 Eager to learn and explore new technologies and programming languages.
-- 🌟 Aspiring to make a mark in the world of software development.
+
+* 💻 Junior Fullstack Developer with commercial project experience
+* 🔧 Specialized in backend development with ASP.NET and EF Core
+* 🌐 Building frontend applications using Angular
+* 🗺️ Worked on map visualization systems and polyline calculation using Valhalla and Google Maps
+* 🚛 Contributed to a web platform for managing overweight and overlength transport permits across the United States
+* 📦 Worked on inventory management applications and internal business systems
+* 🚀 Interested in scalable systems, microservices, and modern web technologies
 
 ## 💻 Tech Stack:
-- 🛠️ Experienced in web development.
-  - Angular(ts,scss,html)
-  - ASP.NET
-  - git
-  - basic knowlage about Docker
+
+* Angular (TypeScript, SCSS, HTML)
+* ASP.NET / ASP.NET Core
+* Entity Framework Core
+* REST API development
+* Microservices architecture
+* MySQL
+* Git & GitHub
+* Docker basics
+
+Feel free to reach out for collaboration or networking!
+
 
 ---
 
-Feel free to reach out for collaborations, mentorship, or just a friendly chat!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/łukasz-łośko-bb17732ba/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:tiziterski@gmail.com)
-
----
-
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiziterskii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
